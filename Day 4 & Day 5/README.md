@@ -4,4 +4,5 @@ I have previously explored DCGAN with Keras. In these two days, I will be workin
 _Following official documentation is a habit that has been very useful to me as a developer. I used to follow blogs and over the time I started reading the official documentation for each library I used. It helped me learn a lot!_
 
 So in our quest to master PyTorch, let us follow this awesome [tutorial](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html) by PyTorch!
+The dataset used for the GAN is a subset of [Food 11](https://www.epfl.ch/labs/mmspg/downloads/food-image-datasets/) Dataset by EPFL.
 I intend to follow standard tutorials and projects for first 10 day before we switch to personal projects. 
